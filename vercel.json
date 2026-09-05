@@ -1,0 +1,7 @@
+{
+  "buildCommand": null,
+  "outputDirectory": "racing-game",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
